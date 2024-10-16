@@ -2,3 +2,4 @@
 */migrations
 # Pycache
 */__pycache__
+*.vscode
